@@ -1,0 +1,5 @@
+Análisis de una cuenta de la red social TW que incluye lo siguiente:
+1. AED con un LLM ChatGPT mediante prompts directo en el API, con sus resultados.
+2. Resumen de los comentarios publicados en la cuenta mediante un API externo con recibe el df directo.
+3. Analisis de sentimientos de los comentarios agrupados por etiquetas y su indicador de interacción.
+4. Informe resumen.
